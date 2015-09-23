@@ -92,7 +92,7 @@ static BOOL _alwaysUseMainBundle = NO;
 
 @synthesize ratingAlert;
 
-+ (void) setAppId:(NSString *)appId {
++ (void) setAppleAppId:(NSString *)appId {
     _appId = appId;
 }
 

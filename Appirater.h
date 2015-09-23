@@ -201,7 +201,7 @@ extern NSString *const kAppiraterReminderRequestDate;
 /*!
  Set your Apple generated software id here.
  */
-+ (void) setAppId:(NSString*)appId;
++ (void) setAppleAppId:(NSString*)appId;
 
 /*!
  Users will need to have the same version of your app installed for this many
